@@ -1,5 +1,6 @@
 import java.util.Scanner;
 public class insertElements {
+
     public static void main(String[] args) {
         int i, element;
         int[] arr = new int[11];
